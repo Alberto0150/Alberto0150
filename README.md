@@ -28,6 +28,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=plastic&logo=c%2B%2B&logoColor=0180cd)
+![C++](https://img.shields.io/badge/-C%20Programming-black?style=plastic&logo=C&logoColor=5d6bc1)
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 ![PHP](https://img.shields.io/badge/PHP-black?style=plastic&logo=php)
 
