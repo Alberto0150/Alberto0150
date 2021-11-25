@@ -8,8 +8,10 @@
 </div>
 
 --- 
+## 🤔 About me
 - 🌱 I’m currently learning **Full Stack Development**
 - 🏫 I'm currently last year student at **Sepuluh Nopember Institute of Technology**
+- 🤖 I'm part of **Banyubramanta ITS Robotic Team**
 - ☕ I'm a coffee, tea, and energy drink enjoyer
 
 ## 🛠️ Tech and Tools 
@@ -17,14 +19,15 @@
   
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=plastic&logo=bitbucket)
+![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=plastic&logo=bitbucket&logoColor=blue)
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visual-studio-code&logoColor=007ACC)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=plastic&logo=arduino)
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![C++](https://img.shields.io/badge/-C%2B%2B-black?style=plastic&logo=c%2B%2B&logoColor=0180cd)
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 ![PHP](https://img.shields.io/badge/PHP-black?style=plastic&logo=php)
 
@@ -50,6 +53,6 @@
   
 <br/>
   
----
+<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="40%">
 
-<div align="center"><img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50%"></div>
+</div>
