@@ -37,7 +37,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=plastic&logo=kubernetes)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=plastic&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=plastic&logo=google-cloud)
   
 </div>
