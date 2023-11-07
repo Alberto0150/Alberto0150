@@ -10,8 +10,8 @@
 --- 
 ## 🤔 About me
 - 🌱 I’m currently learning **Full Stack Development & IoT**
-- 🏫 I'm Graduated student from **Sepuluh Nopember Institute of Technology**
-- 🤖 I'm part of **Banyubramanta ITS Robotic Team** when in College
+- 🏫 I'm graduated from **Sepuluh Nopember Institute of Technology**
+- 🤖 I'm ex-member of **Banyubramanta ITS Robotic Team**
 - ☕ I'm a coffee, tea, and energy drink enjoyer
 
 ## 🛠️ Tech and Tools 
