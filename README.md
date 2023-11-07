@@ -9,9 +9,9 @@
 
 --- 
 ## 🤔 About me
-- 🌱 I’m currently learning **Full Stack Development**
-- 🏫 I'm currently last year student at **Sepuluh Nopember Institute of Technology**
-- 🤖 I'm part of **Banyubramanta ITS Robotic Team**
+- 🌱 I’m currently learning **Full Stack Development & IoT**
+- 🏫 I'm Graduated student from **Sepuluh Nopember Institute of Technology**
+- 🤖 I'm part of **Banyubramanta ITS Robotic Team** when in College
 - ☕ I'm a coffee, tea, and energy drink enjoyer
 
 ## 🛠️ Tech and Tools 
